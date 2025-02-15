@@ -27,7 +27,7 @@ This project analyzes Twitter data to determine sentiment (Positive, Negative, o
 	•	Time-based sentiment trends
  
 # 🔧 Setup Instructions
-git clone https://github.com/your-repo/sentiment-analysis.git
-cd sentiment-analysis
+# git clone https://github.com/your-repo/sentiment-analysis.git
+\n cd sentiment-analysis
 
 Feel free to contribute by submitting issues or pull requests.
