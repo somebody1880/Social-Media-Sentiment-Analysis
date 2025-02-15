@@ -9,22 +9,22 @@ Social media sentiment analysis using tweets involves analyzing tweet data to de
 This project analyzes Twitter data to determine sentiment (Positive, Negative, or Neutral) using NLP and machine learning techniques.
 
 # 🚀 Features
-	•	Collects tweets using Twitte  dataset
-	•	Preprocesses text (tokenization, stopword removal, stemming)
-	•	Applies sentiment classification using ML models (Logistic Regression, SVM, or Deep Learning)
-	•	Visualizes sentiment trends with graphs and charts
+	•Collects tweets using Twitte  dataset
+	•Preprocesses text (tokenization, stopword removal, stemming)
+	•Applies sentiment classification using ML models (Logistic Regression, SVM, or Deep Learning)
+	•Visualizes sentiment trends with graphs and charts
 
 # 🛠️ Tech Stack
-	•	Python
-	•	NLP (NLTK, SpaCy)
-	•	Machine Learning (Scikit-learn, TensorFlow)
-	•	Data Processing (Pandas, NumPy)
+	•Python
+	•NLP (NLTK, SpaCy)
+	•Machine Learning (Scikit-learn, TensorFlow)
+	•Data Processing (Pandas, NumPy)
 	•Data Visualization (Matplotlib, Seaborn)
 
 #  📊 Results & Insights
-	•	Sentiment distribution of tweets
-	•	Word cloud for positive and negative sentiments
-	•	Time-based sentiment trends
+	•Sentiment distribution of tweets
+	•Word cloud for positive and negative sentiments
+	•Time-based sentiment trends
  
 # 🔧 Setup Instructions
 # git clone https://github.com/your-repo/sentiment-analysis.git
